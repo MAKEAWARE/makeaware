@@ -265,6 +265,7 @@ footer {
 	font-size: 0.9rem;
 	color:#EFEFEF;
 	padding-top:0.5rem;
+	padding-right:3rem;
 }
 
 .footer-subtitle-link {
@@ -362,7 +363,7 @@ footer {
 	}
 	
 	.footer-subtitle {
-	font-size: 0.9rem;
+	font-size: 0.7rem;
 	padding-top:0.7rem;
 }
 
