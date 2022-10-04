@@ -103,6 +103,15 @@ for(var i=1; i<pills.length; i++) {
 
 
 
+// hamburger menu mobile
+
+var hamburger = document.getElementById('hamburger-menu');
+
+var menuToggle = function(id) {
+	document.getElementById('menu-elements-toggle').classList.toggle('hidden-nav-menu');
+}
+
+hamburger.addEventListener('click', menuToggle.bind(this, hamburger.id));
 
 
 
