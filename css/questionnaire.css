@@ -12,6 +12,26 @@
 	width: 100%;
 }
 
+
+
+.r-container-text a {
+	font-family: 'SuisseIntl-Light', sans-serif;
+	font-size: 0.9rem;
+	color: #FF3A17;
+	padding: 0px;
+	padding-right: 0rem;
+	margin: 0px;
+	border: 0px;
+	text-decoration: none;
+}
+
+.r-container-text a:hover {
+	color: #ABABAB;
+	text-decoration: none;
+}
+
+
+
 /*! ----anchros - */
 .anchors-questionnaire {
 	position: relative;
