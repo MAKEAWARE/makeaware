@@ -96,7 +96,13 @@
 	color: #FF46EC;
 	margin-top:0rem;
 	padding-top:1rem;
-	white-space: break-spaces;
+	display:inline-block;
+	line-height: 1.7rem;
+	
+}
+
+.workshops-tag-name-invisible {
+    color: #EFEFEF;
 	
 }
 
@@ -107,6 +113,13 @@
 	font-size: 1.3rem;
 	color: #FF46EC;
 	margin-top:0rem;
+	display:inline-block;
+	line-height: 1.3rem;
+	
+}
+
+.workshops-tag-last-invisible {
+	color: #EFEFEF;
 	
 }
 
@@ -116,6 +129,7 @@
 	font-family: 'SuisseIntl-Light', sans-serif;
 	font-size: 1rem;
 	color: #2A2A2A;
+	display:inline-block;
 	line-height: 1.9rem;
 	margin:0;
 
